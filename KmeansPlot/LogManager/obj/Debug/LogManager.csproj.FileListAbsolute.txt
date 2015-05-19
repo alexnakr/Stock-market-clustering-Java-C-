@@ -1,0 +1,11 @@
+C:\Users\alex\Dropbox\Colman\Big Data\Hadoop_SSH\LogManager\bin\Debug\LogManager.dll.config
+C:\Users\alex\Dropbox\Colman\Big Data\Hadoop_SSH\LogManager\bin\Debug\LogManager.dll
+C:\Users\alex\Dropbox\Colman\Big Data\Hadoop_SSH\LogManager\bin\Debug\LogManager.pdb
+C:\Users\alex\Dropbox\Colman\Big Data\Hadoop_SSH\LogManager\bin\Debug\Hadoop_SSH.dll
+C:\Users\alex\Dropbox\Colman\Big Data\Hadoop_SSH\LogManager\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\alex\Dropbox\Colman\Big Data\Hadoop_SSH\LogManager\bin\Debug\DiffieHellman.dll
+C:\Users\alex\Dropbox\Colman\Big Data\Hadoop_SSH\LogManager\bin\Debug\Org.Mentalis.Security.dll
+C:\Users\alex\Dropbox\Colman\Big Data\Hadoop_SSH\LogManager\bin\Debug\Hadoop_SSH.pdb
+C:\Users\alex\Dropbox\Colman\Big Data\Hadoop_SSH\LogManager\obj\Debug\LogManager.csprojResolveAssemblyReference.cache
+C:\Users\alex\Dropbox\Colman\Big Data\Hadoop_SSH\LogManager\obj\Debug\LogManager.dll
+C:\Users\alex\Dropbox\Colman\Big Data\Hadoop_SSH\LogManager\obj\Debug\LogManager.pdb

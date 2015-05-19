@@ -1,0 +1,15 @@
+﻿<Window x:Name="Kmean_stock_clustering" x:Class="OxyPlotDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:oxy="http://oxyplot.codeplex.com"
+        Title="MainWindow" Height="500" Width="650">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="140*"/>
+            <ColumnDefinition Width="211*"/>
+            <ColumnDefinition Width="136*"/>
+            <ColumnDefinition Width="30*"/>
+        </Grid.ColumnDefinitions>
+        <oxy:Plot x:Name="Plot1" Title="A Graph" Model="{Binding PlotModel}" Margin="10" Grid.ColumnSpan="4"/>
+    </Grid>
+</Window>
